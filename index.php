@@ -217,11 +217,11 @@
 						</div>
 							
 						<div class="footerText">
-							CUSAT,Cochin <br> Kerala, India
+							patna <br> Bihar, India
 						</div>
 				
 						<div class="footerText">
-							E-mail: queries@tourism_management.com
+							E-mail: sauravsrivastav9876@gmail.com
 						</div>
 						
 					</div>
@@ -260,7 +260,7 @@
 					<div class="col-sm-12">
 					<div class="copyrightContainer">
 						<div class="copyright">
-						Copyright &copy; 2021 Alisha Anand
+						Copyright &copy; 2024 saurav suman
 						</div>
 					</div>
 					</div>
